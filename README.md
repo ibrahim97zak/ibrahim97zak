@@ -10,7 +10,7 @@ Hello! I'm **Ibrahim Zakarneh**, a **MERN Stack Developer** with **2+ years of e
 - 🏆 Won **1st place** during the Gaza Sky Geeks internship for leading an award-winning project.  
 - 🛠️ Part-time developer at **Nova**, where innovation meets reality.  
 - 🎨 Passionate about blending **creativity and logic** in my work.  
-- 🔍 Always exploring cutting-edge tech like **Socket.IO** and **AWS for Web Development**.  
+- 🔍 Always exploring cutting-edge tech like **React.js** and **Express.js**.  
 
 ---
 
@@ -76,13 +76,3 @@ Feel free to reach out—I’m always up for new opportunities and collaboration
 
 🌟 **"Code is not just code; it's an art."** 🌟
 
-
-Feel free to reach out—I’m always up for new opportunities and collaborations!  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimzakarneh/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github&logoColor=white)](https://ibrahimzakarneh.github.io/)  
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:ibrahimzakarneh.dev@gmail.com)  
-
----
-
-🌟 **"Code is not just code; it's an art."** 🌟
