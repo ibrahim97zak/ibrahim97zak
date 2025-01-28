@@ -19,16 +19,16 @@ Hello! I'm **Ibrahim Zakarneh**, a **MERN Stack Developer** with **2+ years of e
 Here are the tools and technologies I use to build awesome stuff:
 
 **Frontend:**  
-![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
 
 **Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express&logoColor=white) ![Nest.js](https://img.shields.io/badge/-Nest.js-red?style=flat&logo=nestjs&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-pink?style=flat&logo=graphql&logoColor=white)  
 
 **Database:**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-lightgray?style=flat&logo=sqlite&logoColor=white)  
 
 **Tools & Other Skills:**  
-![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman&logoColor=white) ![Webpack](https://img.shields.io/badge/-Webpack-blue?style=flat&logo=webpack&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman&logoColor=white) ![Webpack](https://img.shields.io/badge/-Webpack-blue?style=flat&logo=webpack&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-purple?style=flat&logo=vite&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-purple?style=flat&logo=redux&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-red?style=flat&logo=jest&logoColor=white)  
 
 ---
 
@@ -43,25 +43,39 @@ Here are the tools and technologies I use to build awesome stuff:
 
 ## 🖥️ Featured Projects
 
-### 🌐 [Project Name 1](https://github.com/yourrepo)  
-🔸 **Description:** A dynamic platform built with React and Node.js that solves XYZ.  
-🔸 **Tech Stack:** React, Node.js, MongoDB, Tailwind CSS  
+### 🌐 [SAHEM Donation platform](https://sharecare-group-c-dp4v.onrender.com/)  
+🔸 **Description:** A dynamic platform built and Developed a scalable donation platform using MERN technologies; applied training in algorithms, data
+structures, and Agile principles, improving usability for donors and beneficiaries..  
+🔸 **Tech Stack:** React, Node.js, MongoDB, Tailwind CSS ,Express.js  
 🔸 **Highlights:**  
 - 🚀 Optimized performance for large-scale data.  
-- 🌟 Real-time notifications using Socket.IO.  
+- 🌟 Real-time connection using Socket.IO.  
 
 ---
 
-### 🛍️ [Project Name 2](https://github.com/yourrepo)  
-🔸 **Description:** A responsive e-commerce application with an intuitive design.  
-🔸 **Tech Stack:** React, Redux, MongoDB, Bootstrap  
+### 🛍️ [Real-Time Chat App](https://chat-app-hyl9.onrender.com/login)  
+🔸 **Description:** Built a real-time chat application using Zustand for live updates and Tailwind CSS for modern,
+responsive styling, supporting seamless communication between users.  
+🔸 **Tech Stack:** React, Redux, MongoDB, Tailwind ,Express.js,Node.js    
 🔸 **Highlights:**  
-- 🛒 Custom cart feature with API integration.  
+- 🚀 Real-time connection using Zustand.  
 - 📱 Fully mobile responsive.  
 
 ---
 
 ## 📫 Connect With Me
+
+Feel free to reach out—I’m always up for new opportunities and collaborations!  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-zakarneh-03b888253/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github&logoColor=white)](https://react-portfolio-zvo6.onrender.com/)  
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:https://github.com/ibrahim97zak?tab=repositories)  
+
+
+---
+
+🌟 **"Code is not just code; it's an art."** 🌟
+
 
 Feel free to reach out—I’m always up for new opportunities and collaborations!  
 
