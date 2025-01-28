@@ -35,10 +35,10 @@ Here are the tools and technologies I use to build awesome stuff:
 ## 📈 GitHub Stats
 
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimzakarneh&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimzakarneh&theme=radical" alt="GitHub Streak" height="180px"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimzakarneh&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimzakarneh&theme=radical&ring=FFB19A" alt="GitHub Streak" height="180px"/>  
 </div>  
-
+ 
 ---
 
 ## 🖥️ Featured Projects
