@@ -10,7 +10,7 @@ Hello! I'm **Ibrahim Zakarneh**, a **MERN Stack Developer** with **2+ years of e
 - 🏆 Won **1st place** during the Gaza Sky Geeks internship for leading an award-winning project.  
 - 🛠️ Part-time developer at **Nova**, where innovation meets reality.  
 - 🎨 Passionate about blending **creativity and logic** in my work.  
-- 🔍 Always exploring cutting-edge tech like **React.js** and **Express.js**.  
+- 🔍 Always exploring cutting-edge tech like **React.js**, **Next.js**, and **Express.js**.  
 
 ---
 
@@ -19,7 +19,7 @@ Hello! I'm **Ibrahim Zakarneh**, a **MERN Stack Developer** with **2+ years of e
 Here are the tools and technologies I use to build awesome stuff:
 
 **Frontend:**  
-![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Chakra UI](https://img.shields.io/badge/-ChakraUI-319795?style=flat&logo=chakraui&logoColor=white)  
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express&logoColor=white) ![Nest.js](https://img.shields.io/badge/-Nest.js-red?style=flat&logo=nestjs&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-pink?style=flat&logo=graphql&logoColor=white)  
@@ -45,8 +45,8 @@ Here are the tools and technologies I use to build awesome stuff:
 
 ### 🌐 [SAHEM Donation platform](https://sharecare-group-c-dp4v.onrender.com/)  
 🔸 **Description:** A dynamic platform built and Developed a scalable donation platform using MERN technologies; applied training in algorithms, data
-structures, and Agile principles, improving usability for donors and beneficiaries..  
-🔸 **Tech Stack:** React, Node.js, MongoDB, Tailwind CSS ,Express.js  
+structures, and Agile principles, improving usability for donors and beneficiaries.  
+🔸 **Tech Stack:** React, Node.js, MongoDB, Tailwind CSS, Express.js  
 🔸 **Highlights:**  
 - 🚀 Optimized performance for large-scale data.  
 - 🌟 Real-time connection using Socket.IO.  
@@ -56,7 +56,7 @@ structures, and Agile principles, improving usability for donors and beneficiari
 ### 🛍️ [Real-Time Chat App](https://chat-app-hyl9.onrender.com/login)  
 🔸 **Description:** Built a real-time chat application using Zustand for live updates and Tailwind CSS for modern,
 responsive styling, supporting seamless communication between users.  
-🔸 **Tech Stack:** React, Redux, MongoDB, Tailwind ,Express.js,Node.js    
+🔸 **Tech Stack:** React, Redux, MongoDB, Tailwind, Express.js, Node.js    
 🔸 **Highlights:**  
 - 🚀 Real-time connection using Zustand.  
 - 📱 Fully mobile responsive.  
@@ -71,8 +71,6 @@ Feel free to reach out—I’m always up for new opportunities and collaboration
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github&logoColor=white)](https://react-portfolio-zvo6.onrender.com/)  
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:https://github.com/ibrahim97zak?tab=repositories)  
 
-
 ---
 
 🌟 **"Code is not just code; it's an art."** 🌟
-
