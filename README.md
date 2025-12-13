@@ -43,7 +43,7 @@ Here are the tools and technologies I use to build awesome stuff:
 
 ## 🖥️ Featured Projects
 
-### 🌐 [SAHEM Donation platform](https://sharecare-group-c-dp4v.onrender.com/)  
+### 🌐 [SAHEM Donation platform]([https://sharecare-group-c-dp4v.onrender.com/](https://github.com/ibrahim97zak/ShareCare-Group-C))  
 🔸 **Description:** A dynamic platform built and Developed a scalable donation platform using MERN technologies; applied training in algorithms, data
 structures, and Agile principles, improving usability for donors and beneficiaries.  
 🔸 **Tech Stack:** React, Node.js, MongoDB, Tailwind CSS, Express.js  
